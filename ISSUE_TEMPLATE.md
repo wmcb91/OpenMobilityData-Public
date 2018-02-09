@@ -1,20 +1,18 @@
+NEW FEEDS:
 
-Please complete the following checklist when submitting a new data feed.
+To submit **new** feeds, visit [Submit a Feed](https://transitfeeds.com/submit).
 
-If you have multiple feeds to submit, please create a separate issue for each of them.
+Note that if you click on **Submit a Feed** on a location or provider details page, the location and provider will be automatically populated.
 
-- [ ] COUNTRY: ______________________
+At this time we can only accept static, unchanging URLs. Maintenance of dynamic URLs is proving too difficult and time-consuming.
 
-- [ ] REGION: ______________________
+UPDATE EXISTING FEED:
 
-- [ ] CITY: ______________________
+Please fill out the following if an existing feed has a new download URL:
 
-- [ ] DIRECT DOWNLOAD URL: https://
-  This is the URL of the GTFS zip
-  
-- [ ] FEED ACCESS INFO: https://
-  This is a web page with more information about the feed (such as licensing or access instructions)
+- [ ] URL ON TRANSITFEEDS: _________________________
+- [ ] NEW DOWNLOAD URL (direct link): _________________________
 
-- [ ] This feed is reliably updated
+If application:
 
-- [ ] This is an official feed (we try not to include unofficial feeds, but may make exceptions)
+- [ ] NEW FEED INFORMATION URL: _________________________
