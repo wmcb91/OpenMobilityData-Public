@@ -1,4 +1,4 @@
-NEW FEEDS:
+## NEW FEEDS:
 
 To submit **new** feeds, visit [Submit a Feed](https://transitfeeds.com/submit).
 
@@ -6,7 +6,7 @@ Note that if you click on **Submit a Feed** on a location or provider details pa
 
 At this time we can only accept static, unchanging URLs. Maintenance of dynamic URLs is proving too difficult and time-consuming.
 
-UPDATE EXISTING FEED:
+## UPDATE EXISTING FEED:
 
 Please fill out the following if an existing feed has a new download URL:
 
