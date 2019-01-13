@@ -10,9 +10,9 @@ At this time we can only accept static, unchanging URLs. Maintenance of dynamic 
 
 Please fill out the following if an existing feed has a new download URL:
 
-- [ ] URL ON TRANSITFEEDS: _________________________
-- [ ] NEW DOWNLOAD URL (direct link): _________________________
+- [ ] URL on OpenMobilityData: _________________________
+- [ ] New download URL (direct link): _________________________
 
 If application:
 
-- [ ] NEW FEED INFORMATION URL: _________________________
+- [ ] New feed information URL: _________________________
