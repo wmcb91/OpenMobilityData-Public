@@ -1,6 +1,6 @@
 ## NEW FEEDS:
 
-To submit **new** feeds, visit [Submit a Feed](https://transitfeeds.com/submit).
+To submit **new** feeds, visit [Submit a Feed](https://openmobilitydata.org/submit).
 
 Note that if you click on **Submit a Feed** on a location or provider details page, the location and provider will be automatically populated.
 
